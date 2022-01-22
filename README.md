@@ -16,3 +16,6 @@ Although Web 2 has brought the world amazing free services, a lot of people have
 Web 3 can be understood as the “read/write/own” phase of the Internet.
 Rather than just using free tech platforms in exchange for our data, users can participate in the governance and operation of the protocols themselves. 
 This means people can become participants and shareholders, not just customers or products.
+
+
+![image](https://user-images.githubusercontent.com/89007620/150650452-6c1398f6-14a1-4d03-b799-c68d165ed6f7.png)
